@@ -1,0 +1,39 @@
+{
+  "status": true,
+  "code": 200,
+  "message": "Successfully read all the books...!",
+  "data": {
+    "books": [
+      {
+        "id": 1,
+        "book_name": "Emama",
+        "book_image": "https://educentric.amralab.com/upload/bookimage/epub.jpg",
+        "book_pdf_url": "https://educentric.amralab.com/upload/pdfbook/64f69eca8b2b1Emma.epub",
+        "book_audio": null,
+        "book_price": null,
+        "book_discount": null,
+        "reading_authorization": "1"
+      },
+      {
+        "id": 2,
+        "book_name": "Amara bangla boi",
+        "book_image": "https://educentric.amralab.com/upload/bookimage/epub.jpg",
+        "book_pdf_url": "https://educentric.amralab.com/upload/pdfbook/64fb27bda2be1Emma.epub",
+        "book_audio": null,
+        "book_price": "250",
+        "book_discount": null,
+        "reading_authorization": "3"
+      },
+      {
+        "id": 3,
+        "book_name": "Math book",
+        "book_image": "https://educentric.amralab.com/upload/bookimage/pdf.png",
+        "book_pdf_url": "https://educentric.amralab.com/upload/pdfbook/64d949edda1261604.02480.pdf",
+        "book_audio": null,
+        "book_price": null,
+        "book_discount": null,
+        "reading_authorization": "1"
+      }
+    ]
+  }
+}
